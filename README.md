@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kesarwanikhushi
-- 👀 I’m interested in Frontend Development and UI/UX Design
-- 🌱 I’m currently learning ML OPS
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me kesarwani.khushi121@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: An Apple 🍎 a Day Keeps Doctor Away
+Hi, I'm Khushi Kesarwani 👋
+🚀 DevOps Enthusiast | 🎨 UI/UX Designer | 💻 C++ & Python Learner
+🎓 B.E. CSE (DevOps) @ Chandigarh University
+🛠 Currently working with Flask, Express, Docker, AWS & Terraform
+📚 Solving 450 DSA Questions in C++
+✨ Passionate about Cloud, Backend, and Building Real-World Projects
+
+Tech Stack:
+C++ | Python | JavaScript | HTML | CSS | Flask | Node.js | MongoDB | Docker | Terraform | Figma
+
+Let's Connect:
+🔗 khushi-kesarwani7080
+📧 kesarwani.khushi121@gmail.com
 
 <!---
 kesarwanikhushi/kesarwanikhushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
