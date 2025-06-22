@@ -1,11 +1,14 @@
 Hi, I'm Khushi Kesarwani 👋
 
-#🚀 DevOps Enthusiast | 🎨 UI/UX Designer | 💻 C++ & Python Learner
+🚀 DevOps Enthusiast | 🎨 UI/UX Designer | 💻 C++ & Python Learner
 
-#🎓 B.E. CSE (DevOps) @ Chandigarh University
-#🛠 Currently working with Flask, Express, Docker, AWS & Terraform
-#📚 Solving 450 DSA Questions in C++
-#✨ Passionate about Cloud, Backend, and Building Real-World Projects
+🎓 B.E. CSE (DevOps) @ Chandigarh University
+
+🛠 Currently working with Flask, Express, Docker, AWS & Terraform
+
+📚 Solving 450 DSA Questions in C++
+
+✨ Passionate about Cloud, Backend, and Building Real-World Projects
 
 Tech Stack:
 C++ | Python | JavaScript | HTML | CSS | Flask | Node.js | MongoDB | Docker | Terraform | Figma
