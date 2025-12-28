@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesarwanikhushi&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Let's Build Together
 
 I'm always excited to work on:
