@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushiKesarwani&show_icons=true&theme=radical)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesarwanikhushi&show_icons=true&theme=radical)
 
 ---
 
