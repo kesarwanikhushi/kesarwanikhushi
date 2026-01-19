@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Improving DSA, building projects, and contributing to open source.
-👯 I’m looking to collaborate on: Beginner-friendly open-source and web development projects.
-🤝 I’m looking for help with: Advanced Git workflows and scalable coding practices.
-🌱 I’m currently learning: Git/GitHub, React, and backend fundamentals.
-💬 Ask me about: Version control, Git vs GitHub, and getting started with open source.
-⚡ Fun fact: I learn best by teaching others. 🚀
+🔭 I’m currently working on: Improving DSA, building projects, and contributing to open source.<br>
+👯 I’m looking to collaborate on: Beginner-friendly open-source and web development projects.<br>
+🤝 I’m looking for help with: Advanced Git workflows and scalable coding practices.<br>
+🌱 I’m currently learning: Git/GitHub, React, and backend fundamentals.<br>
+💬 Ask me about: Version control, Git vs GitHub, and getting started with open source.<br>
+⚡ Fun fact: I learn best by teaching others. 🚀<br>
 
 
 ## 🌐 Socials:
